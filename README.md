@@ -1,6 +1,6 @@
 # Guess-My-Number
-Guess My Number Javascript Game <br>
-Guess My Number simple javascript game , good prject to practise in DOM in js . 
+Guess My Number Javascript Game, <br>
+good project to practice in document object model in javascript.
 
 ## Game Interface 
 <img src='GameInterface.png'>
